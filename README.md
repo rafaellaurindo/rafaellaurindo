@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 Here are some packages I created:
 
 [![Laravel Telegram Logging](https://github-readme-stats.vercel.app/api/pin/?username=rafaellaurindo&repo=laravel-telegram-logging)](https://github.com/rafaellaurindo/laravel-telegram-logging)
-[![Laravel Tradução ptBR](https://github-readme-stats.vercel.app/api/pin/?username=rafaellaurindo&repo=laravel-traducao-pt-br/)](https://github.com/rafaellaurindo/laravel-traducao-pt-br)
+[![Laravel Tradução ptBR](https://github-readme-stats.vercel.app/api/pin/?username=rafaellaurindo&repo=laravel-traducao-pt-br)](https://github.com/rafaellaurindo/laravel-traducao-pt-br)
 [![Mercado Bitcoin JS](https://github-readme-stats.vercel.app/api/pin/?username=rafaellaurindo&repo=mercadobitcoin-js)](https://github.com/rafaellaurindo/mercadobitcoin-js)
 
 ### ⚡ Technologies
