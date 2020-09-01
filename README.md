@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 👨🏻‍💻 I’m a Web Developer at [iDez Digital](https://idez.com.br/). I'm Brazilian and I live in Fortaleza, Ceará. 🌴
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_rafaellaurindo?style=social)](https://twitter.com/_rafaellaurindo)
 [![Linkedin: rafaellaurindo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaellaurindo/)](https://www.linkedin.com/in/rafaellaurindo/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_rafaellaurindo?style=social)](https://twitter.com/_rafaellaurindo)
 [![Youtube: Rafael Laurindo](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/channel/UC8pOz4KDLlYXx7WrCiJl0PQ)](http://youtube.com/channel/UC8pOz4KDLlYXx7WrCiJl0PQ)
 
 ### 📚 Packages
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 Here are some packages I created:
 
 [![Laravel Telegram Logging](https://github-readme-stats.vercel.app/api/pin/?username=rafaellaurindo&repo=laravel-telegram-logging)](https://github.com/rafaellaurindo/laravel-telegram-logging)
-[![Laravel Tradução pt-BR](https://github-readme-stats.vercel.app/api/pin/?username=rafaellaurindo&repo=laravel-traducao-pt-br)](https://github.com/rafaellaurindo/laravel-traducao-pt-br)
+[![Laravel Tradução ptBR](https://github-readme-stats.vercel.app/api/pin/?username=rafaellaurindo&repo=laravel-traducao-pt-br/)](https://github.com/rafaellaurindo/laravel-traducao-pt-br)
 [![Mercado Bitcoin JS](https://github-readme-stats.vercel.app/api/pin/?username=rafaellaurindo&repo=mercadobitcoin-js)](https://github.com/rafaellaurindo/mercadobitcoin-js)
 
 ### ⚡ Technologies
