@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 👨🏻‍💻 I’m a Web Developer at [iDez Digital](https://idez.com.br/). I'm Brazilian and I live in Fortaleza, Ceará. 🌴
 
-[![GitHub: rafaellaurindo](https://komarev.com/ghpvc/?username=rafaellaurindo)](https://github.com/rafaellaurindo)
 [![Linkedin: rafaellaurindo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaellaurindo/)](https://www.linkedin.com/in/rafaellaurindo/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_rafaellaurindo?style=social)](https://twitter.com/_rafaellaurindo)
 [![Youtube: Rafael Laurindo](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/channel/UC8pOz4KDLlYXx7WrCiJl0PQ)](http://youtube.com/channel/UC8pOz4KDLlYXx7WrCiJl0PQ)
