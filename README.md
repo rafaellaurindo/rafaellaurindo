@@ -17,18 +17,36 @@ Here are some ideas to get you started:
 
 👨🏻‍💻 I’m a Web Developer at [iDez Digital](https://idez.com.br/). I'm Brazilian and I live in Fortaleza, Ceará. 🌴
 
-[![Linkedin: rafaellaurindo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaellaurindo/)](https://www.linkedin.com/in/rafaellaurindo/)
+[![Linkedin: Rafael Laurindo](https://img.shields.io/badge/-RafaelLaurindo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaellaurindo/)](https://www.linkedin.com/in/rafaellaurindo/)
+[![Instagram Badge](https://img.shields.io/badge/-@rafaellaurindo.dev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rafaellaurindo.dev/)](https://instagram.com/rafaellaurindo.dev)
+[![StackOverflow: rafaellaurindo](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/11035292/rafael-laurindo)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_rafaellaurindo?style=social)](https://twitter.com/_rafaellaurindo)
-[![Youtube: Rafael Laurindo](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=http://youtube.com/channel/UC8pOz4KDLlYXx7WrCiJl0PQ)](http://youtube.com/channel/UC8pOz4KDLlYXx7WrCiJl0PQ)
+[![Youtube Views: Rafael Laurindo](https://img.shields.io/youtube/channel/views/UC8pOz4KDLlYXx7WrCiJl0PQ?style=social)](http://youtube.com/channel/UC8pOz4KDLlYXx7WrCiJl0PQ)
 
+## &#x1f4c8; GitHub Stats
 
-### 📚 Packages
+<a href="https://github.com/rafaellaurindo/rafaellaurindo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellaurindo&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/rafaellaurindo/rafaellaurindo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaellaurindo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
-Here are some packages I created:
+<a href="https://github.com/rafaellaurindo/laravel-telegram-logging">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaellaurindo&repo=laravel-telegram-logging&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-[![Laravel Telegram Logging](https://github-readme-stats.vercel.app/api/pin/?username=rafaellaurindo&repo=laravel-telegram-logging)](https://github.com/rafaellaurindo/laravel-telegram-logging)
-[![Laravel Tradução ptBR](https://github-readme-stats.vercel.app/api/pin/?username=rafaellaurindo&repo=laravel-traducao-pt-br)](https://github.com/rafaellaurindo/laravel-traducao-pt-br)
-[![Mercado Bitcoin JS](https://github-readme-stats.vercel.app/api/pin/?username=rafaellaurindo&repo=mercadobitcoin-js)](https://github.com/rafaellaurindo/mercadobitcoin-js)
+<a href="https://github.com/rafaellaurindo/laravel-traducao-pt-br">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaellaurindo&repo=laravel-traducao-pt-br&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+<a href="https://github.com/rafaellaurindo/image-classifier-python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaellaurindo&repo=image-classifier-python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/rafaellaurindo/laravel-brasilapi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaellaurindo&repo=laravel-brasilapi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 ### ⚡ Technologies
 
